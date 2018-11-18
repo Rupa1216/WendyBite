@@ -68,17 +68,24 @@ h4 {
 
 
 .position {
-    font-size: 17px;
+    font-size: 18px;
     font-weight: bolder;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
+    font-family: 'Trebuchet';
+    color: #ffffff;
 }
 
 .company {
-    font-family: sans-serif;
+    font-family: Arial;
     font-size: 14px;
+    color: #ffffff;
+    font-weight: lighter;
+}
+
+h5 {
+    color: lightgray;
 }
 
 li {
     margin-block-end: -1.5%;
+    
 }
